@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lesiience.github.io/OS_cheatsheet/sitemap.xml
