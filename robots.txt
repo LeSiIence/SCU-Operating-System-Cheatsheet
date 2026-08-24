@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://lesiience.github.io/OS_cheatsheet/sitemap.xml
+Sitemap: https://lesiience.github.io/SCU-Operating-System-Cheatsheet/sitemap.xml
